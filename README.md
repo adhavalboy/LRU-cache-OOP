@@ -1,3 +1,3 @@
 # LRU-cache-OOP
 
-LRU cache using Doubly Linked list and Map
+LRU cache using Doubly Linked list and Modify with Map
